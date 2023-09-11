@@ -44,6 +44,7 @@ nano /etc/headscale/config.yaml
 
 **↳** Use example configuration:  
 
+[***Headscale Configuration***](../../docs/configurations/config-example.yaml)
 
 ### 5. Start headscale
 
