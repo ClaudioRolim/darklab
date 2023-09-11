@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorials/wireguard",
+  "id": "tutorials/wireguard",
+  "title": "WIREGUARD",
+  "description": "SERVER Configuration",
+  "source": "@site/docs/tutorials/wireguard.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wireguard",
+  "permalink": "/darklab/docs/tutorials/wireguard",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/wireguard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "WIREGUARD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GIT",
+    "permalink": "/darklab/docs/tutorials/git"
+  },
+  "next": {
+    "title": "HEADSCALE",
+    "permalink": "/darklab/docs/tutorials/headscale"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorials/linux",
+  "id": "tutorials/linux",
+  "title": "LINUX",
+  "description": "Init",
+  "source": "@site/docs/tutorials/linux.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/linux",
+  "permalink": "/darklab/docs/tutorials/linux",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "LINUX"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/darklab/docs/category/tutorials"
+  },
+  "next": {
+    "title": "GIT",
+    "permalink": "/darklab/docs/tutorials/git"
+  }
+}
