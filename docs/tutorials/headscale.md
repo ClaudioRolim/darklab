@@ -44,7 +44,7 @@ nano /etc/headscale/config.yaml
 
 **↳** Use example configuration:  
 
-[***config-example.yaml***](/darklab/configurations/config-example.yaml)
+[***config-example.yaml***](../../configurations/config-example.yaml)
 
 ### 5. Start headscale
 
