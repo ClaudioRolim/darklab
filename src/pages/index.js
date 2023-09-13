@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
           <a href={'docs/home'}><img src={'img/12.png' } alt={''} align={'center'}/></a>
           <h1>
-              <img src={'img/05.gif'} alt={''}/>
+              <img src={'img/110.png'} alt={''}/>
           </h1>
       </div>
     </header>
@@ -37,12 +37,4 @@ export default function Home() {
 before img
   <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-
-    <div>
-          <h6>
-              <a href={'docs/home'}>
-                  <img src={'img/02.gif'} alt={''} align={'left'} />
-              </a>
-          </h6>
-      </div>
  */

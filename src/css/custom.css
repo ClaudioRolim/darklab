@@ -7,13 +7,13 @@
 /* You can override the default Infima variables here. */
 :root {
   .footer--dark {
-    --ifm-footer-background-color: white;
+    --ifm-footer-background-color: #FFFFFF;
     --ifm-footer-title-color: #1C1C1C;
   }
   .footer__link-item {
     color: #1C1C1C;
   }
-  --ifm-menu-color-background-active: white;
+  --ifm-menu-color-background-active: #FFFFFF;
   --ifm-menu-color: #1C1C1C;
   --ifm-color-primary: #4682B4;
   --ifm-color-primary-dark: #29784c;
@@ -30,15 +30,15 @@
 [data-theme='dark'] {
   .footer--dark {
     --ifm-footer-background-color: #1C1C1C;
-    --ifm-footer-title-color: white;
+    --ifm-footer-title-color: #FFFFFF;
   }
   .footer__link-item {
-    color: white;
+    color: #FFFFFF;
   }
   --ifm-menu-color-background-active: #363636;
-  --ifm-menu-color: white;
+  --ifm-menu-color: #FFFFFF;
   --ifm-navbar-background-color: #363636;
-  --ifm-navbar-link-color: white;
+  --ifm-navbar-link-color: #FFFFFF;
   --ifm-color-primary: #4682B4;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
