@@ -1,0 +1,41 @@
+{
+  "permalink": "/darklab/blog/mdx-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "MDX Blog Post",
+  "description": "---",
+  "date": "2021-08-01T00:00:00.000Z",
+  "formattedDate": "August 1, 2021",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/darklab/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.18,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "date": "Jun 23, 2023",
+      "name": "DevJag",
+      "title": "Data Scientist",
+      "url": "https://github.com/devjag-linux",
+      "imageURL": "https://avatars.githubusercontent.com/u/104650542?v=4",
+      "key": "author"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "author"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Darklab",
+    "permalink": "/darklab/blog/sobre"
+  }
+}

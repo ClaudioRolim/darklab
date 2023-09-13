@@ -1,0 +1,16 @@
+{
+  "title": "Tutorials",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorials",
+  "permalink": "/darklab/docs/category/tutorials",
+  "navigation": {
+    "previous": {
+      "title": "Home",
+      "permalink": "/darklab/docs/home"
+    },
+    "next": {
+      "title": "Git",
+      "permalink": "/darklab/docs/tutorials/git"
+    }
+  }
+}

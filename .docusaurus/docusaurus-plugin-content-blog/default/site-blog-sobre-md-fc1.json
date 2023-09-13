@@ -1,0 +1,48 @@
+{
+  "permalink": "/darklab/blog/sobre",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sobre.md",
+  "source": "@site/blog/sobre.md",
+  "title": "Darklab",
+  "description": "---",
+  "date": "2023-06-23T00:00:00.000Z",
+  "formattedDate": "June 23, 2023",
+  "tags": [
+    {
+      "label": "darklab",
+      "permalink": "/darklab/blog/tags/darklab"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/darklab/blog/tags/docusaurus"
+    },
+    {
+      "label": "documentation",
+      "permalink": "/darklab/blog/tags/documentation"
+    }
+  ],
+  "readingTime": 0.045,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "date": "Jun 23, 2023",
+      "name": "DevJag",
+      "title": "Data Scientist",
+      "url": "https://github.com/devjag-linux",
+      "imageURL": "https://avatars.githubusercontent.com/u/104650542?v=4",
+      "key": "author"
+    }
+  ],
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Darklab",
+    "date": "Jun 23, 2023",
+    "authors": [
+      "author"
+    ],
+    "tags": [
+      "darklab",
+      "docusaurus",
+      "documentation"
+    ]
+  }
+}

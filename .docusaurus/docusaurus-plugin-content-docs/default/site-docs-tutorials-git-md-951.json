@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorials/git",
+  "id": "tutorials/git",
+  "title": "Git",
+  "description": "---",
+  "source": "@site/docs/tutorials/git.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/git",
+  "permalink": "/darklab/docs/tutorials/git",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Git"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/darklab/docs/category/tutorials"
+  },
+  "next": {
+    "title": "GitHub",
+    "permalink": "/darklab/docs/tutorials/github"
+  }
+}

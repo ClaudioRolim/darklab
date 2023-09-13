@@ -1,0 +1,165 @@
+{
+  "/darklab/__docusaurus/debug-9d4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/__docusaurus/debug/config-568": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/__docusaurus/debug/content-b3e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    },
+    "allContent": "allContent---darklab-docusaurus-debug-content-246-33f"
+  },
+  "/darklab/__docusaurus/debug/globalData-bde": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/__docusaurus/debug/metadata-995": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/__docusaurus/debug/registry-559": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/__docusaurus/debug/routes-384": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---darklab-docusaurus-debug-51-d-307"
+    }
+  },
+  "/darklab/blog-608": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "items": [
+      {
+        "content": "content---darklab-blog-1-ca-3d0"
+      }
+    ],
+    "metadata": "metadata---darklab-blogc-39-ac4"
+  },
+  "/darklab/blog/archive-ff2": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "archive": "archive---darklab-blog-archiveef-2-847"
+  },
+  "/darklab/blog/sobre-28d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "content": "content---darklab-blog-sobrefc-1-8b0"
+  },
+  "/darklab/blog/tags-e5a": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "tags": "tags---darklab-blog-tagsd-4-b-02c"
+  },
+  "/darklab/blog/tags/darklab-d77": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "items": [
+      {
+        "content": "content---darklab-blog-1-ca-3d0"
+      }
+    ],
+    "tag": "tag---darklab-blog-tags-darklab-73-c-c52",
+    "listMetadata": "listMetadata---darklab-blog-tags-darklab-5-b-6-54f"
+  },
+  "/darklab/blog/tags/documentation-232": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "items": [
+      {
+        "content": "content---darklab-blog-1-ca-3d0"
+      }
+    ],
+    "tag": "tag---darklab-blog-tags-documentationa-0-f-772",
+    "listMetadata": "listMetadata---darklab-blog-tags-documentation-4-bc-13a"
+  },
+  "/darklab/blog/tags/docusaurus-b80": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---darklab-blog-302-e4a"
+    },
+    "sidebar": "sidebar---darklab-blog-814-152",
+    "items": [
+      {
+        "content": "content---darklab-blog-1-ca-3d0"
+      }
+    ],
+    "tag": "tag---darklab-blog-tags-docusaurus-180-094",
+    "listMetadata": "listMetadata---darklab-blog-tags-docusaurusea-0-009"
+  },
+  "/darklab/docs-777": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---darklab-docs-076-5f6"
+    },
+    "versionMetadata": "versionMetadata---darklab-docs-935-7bd"
+  },
+  "/darklab/docs/category/tutorials-e30": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---darklab-docs-category-tutorials-2-a-3-c02"
+  },
+  "/darklab/docs/home-d1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-home-3-d-9-166"
+  },
+  "/darklab/docs/tutorials/git-193": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-tutorials-git-951-6ce"
+  },
+  "/darklab/docs/tutorials/github-7c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-tutorials-githubec-4-d69"
+  },
+  "/darklab/docs/tutorials/headscale-448": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-tutorials-headscalee-1-c-944"
+  },
+  "/darklab/docs/tutorials/linux-2c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-tutorials-linux-53-d-f8e"
+  },
+  "/darklab/docs/tutorials/wireguard-306": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---darklab-docs-tutorials-wireguardf-9-b-afd"
+  },
+  "/darklab/-4cb": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---darklab-678-dab"
+    },
+    "config": "config---darklab-5-e-9-bdc"
+  }
+}

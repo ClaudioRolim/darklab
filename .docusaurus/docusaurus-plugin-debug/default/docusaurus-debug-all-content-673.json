@@ -1,0 +1,396 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/darklab/docs",
+          "tagsPath": "/darklab/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/devjag/gitLocal/darklab/sidebars.js",
+          "contentPath": "/home/devjag/gitLocal/darklab/docs",
+          "contentPathLocalized": "/home/devjag/gitLocal/darklab/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "home",
+              "id": "home",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/home.md",
+              "sourceDirName": ".",
+              "slug": "/home",
+              "permalink": "/darklab/docs/home",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/home.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Home"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Tutorials",
+                "permalink": "/darklab/docs/category/tutorials"
+              }
+            },
+            {
+              "unversionedId": "tutorials/git",
+              "id": "tutorials/git",
+              "title": "Git",
+              "description": "---",
+              "source": "@site/docs/tutorials/git.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/git",
+              "permalink": "/darklab/docs/tutorials/git",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/git.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Git"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorials",
+                "permalink": "/darklab/docs/category/tutorials"
+              },
+              "next": {
+                "title": "GitHub",
+                "permalink": "/darklab/docs/tutorials/github"
+              }
+            },
+            {
+              "unversionedId": "tutorials/github",
+              "id": "tutorials/github",
+              "title": "GitHub",
+              "description": "---",
+              "source": "@site/docs/tutorials/github.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/github",
+              "permalink": "/darklab/docs/tutorials/github",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/github.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "GitHub"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Git",
+                "permalink": "/darklab/docs/tutorials/git"
+              },
+              "next": {
+                "title": "Headscale",
+                "permalink": "/darklab/docs/tutorials/headscale"
+              }
+            },
+            {
+              "unversionedId": "tutorials/headscale",
+              "id": "tutorials/headscale",
+              "title": "Headscale",
+              "description": "---",
+              "source": "@site/docs/tutorials/headscale.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/headscale",
+              "permalink": "/darklab/docs/tutorials/headscale",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/headscale.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "Headscale"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub",
+                "permalink": "/darklab/docs/tutorials/github"
+              },
+              "next": {
+                "title": "Linux",
+                "permalink": "/darklab/docs/tutorials/linux"
+              }
+            },
+            {
+              "unversionedId": "tutorials/linux",
+              "id": "tutorials/linux",
+              "title": "Linux",
+              "description": "---",
+              "source": "@site/docs/tutorials/linux.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/linux",
+              "permalink": "/darklab/docs/tutorials/linux",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "sidebar_label": "Linux"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Headscale",
+                "permalink": "/darklab/docs/tutorials/headscale"
+              },
+              "next": {
+                "title": "Wireguard",
+                "permalink": "/darklab/docs/tutorials/wireguard"
+              }
+            },
+            {
+              "unversionedId": "tutorials/wireguard",
+              "id": "tutorials/wireguard",
+              "title": "Wireguard",
+              "description": "---",
+              "source": "@site/docs/tutorials/wireguard.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/wireguard",
+              "permalink": "/darklab/docs/tutorials/wireguard",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/wireguard.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "sidebar_label": "Wireguard"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Linux",
+                "permalink": "/darklab/docs/tutorials/linux"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "home",
+                "label": "Home"
+              },
+              {
+                "type": "category",
+                "label": "Tutorials",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorials/git",
+                    "label": "Git"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/github",
+                    "label": "GitHub"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/headscale",
+                    "label": "Headscale"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/linux",
+                    "label": "Linux"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/wireguard",
+                    "label": "Wireguard"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorials",
+                  "permalink": "/darklab/docs/category/tutorials"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/sobre",
+          "metadata": {
+            "permalink": "/darklab/blog/sobre",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sobre.md",
+            "source": "@site/blog/sobre.md",
+            "title": "Darklab",
+            "description": "---",
+            "date": "2023-06-23T00:00:00.000Z",
+            "formattedDate": "June 23, 2023",
+            "tags": [
+              {
+                "label": "darklab",
+                "permalink": "/darklab/blog/tags/darklab"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/darklab/blog/tags/docusaurus"
+              },
+              {
+                "label": "documentation",
+                "permalink": "/darklab/blog/tags/documentation"
+              }
+            ],
+            "readingTime": 0.045,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "date": "Jun 23, 2023",
+                "name": "DevJag",
+                "title": "Data Scientist",
+                "url": "https://github.com/devjag-linux",
+                "imageURL": "https://avatars.githubusercontent.com/u/104650542?v=4",
+                "key": "author"
+              }
+            ],
+            "frontMatter": {
+              "sidebar_position": 1,
+              "sidebar_label": "Darklab",
+              "date": "Jun 23, 2023",
+              "authors": [
+                "author"
+              ],
+              "tags": [
+                "darklab",
+                "docusaurus",
+                "documentation"
+              ]
+            }
+          },
+          "content": "---\n\n>> This page if destiny...\n\n## **Darklab Documentation**"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/sobre"
+          ],
+          "metadata": {
+            "permalink": "/darklab/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/darklab/blog/tags/darklab": {
+          "label": "darklab",
+          "items": [
+            "/sobre"
+          ],
+          "permalink": "/darklab/blog/tags/darklab",
+          "pages": [
+            {
+              "items": [
+                "/sobre"
+              ],
+              "metadata": {
+                "permalink": "/darklab/blog/tags/darklab",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/darklab/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "/sobre"
+          ],
+          "permalink": "/darklab/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "/sobre"
+              ],
+              "metadata": {
+                "permalink": "/darklab/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/darklab/blog/tags/documentation": {
+          "label": "documentation",
+          "items": [
+            "/sobre"
+          ],
+          "permalink": "/darklab/blog/tags/documentation",
+          "pages": [
+            {
+              "items": [
+                "/sobre"
+              ],
+              "metadata": {
+                "permalink": "/darklab/blog/tags/documentation",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/darklab/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/darklab/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

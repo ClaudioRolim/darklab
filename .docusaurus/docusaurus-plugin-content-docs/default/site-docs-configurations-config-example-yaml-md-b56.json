@@ -1,0 +1,20 @@
+{
+  "unversionedId": "configurations/config-example.yaml",
+  "id": "configurations/config-example.yaml",
+  "title": "config-example.yaml",
+  "description": "",
+  "source": "@site/docs/configurations/config-example.yaml.md",
+  "sourceDirName": "configurations",
+  "slug": "/configurations/config-example.yaml",
+  "permalink": "/darklab/docs/configurations/config-example.yaml",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/configurations/config-example.yaml.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/darklab/docs/tutorial-basics/congratulations"
+  }
+}

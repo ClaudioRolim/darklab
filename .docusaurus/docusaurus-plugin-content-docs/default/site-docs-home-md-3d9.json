@@ -1,0 +1,24 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/home.md",
+  "sourceDirName": ".",
+  "slug": "/home",
+  "permalink": "/darklab/docs/home",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/home.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Home"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/darklab/docs/category/tutorials"
+  }
+}
