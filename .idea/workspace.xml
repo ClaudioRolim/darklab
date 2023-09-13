@@ -80,8 +80,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/devjag/gitLocal/darklab/static/img",
+=======
+    "git-widget-placeholder": "gh-pages",
+    "last_opened_file_path": "/home/devjag/gitLocal/darklab",
+>>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,10 +114,17 @@
       <created>1694469031033</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< Updated upstream
       <updated>1694469031033</updated>
       <workItem from="1694469032052" duration="15242000" />
       <workItem from="1694527624573" duration="3127000" />
       <workItem from="1694538286569" duration="22202000" />
+=======
+      <updated>1694378224600</updated>
+      <workItem from="1694378225578" duration="1527000" />
+      <workItem from="1694379832173" duration="2159000" />
+      <workItem from="1694382000802" duration="890000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
