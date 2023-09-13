@@ -4,7 +4,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -12,15 +11,10 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+          <a href={'docs/home'}><img src={'img/12.png' } alt={''} align={'center'}/></a>
+          <h1>
+              <img src={'img/05.gif'} alt={''}/>
+          </h1>
       </div>
     </header>
   );
@@ -30,8 +24,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Welcome to ${siteConfig.title}`}
+      description="Docs">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -39,3 +33,16 @@ export default function Home() {
     </Layout>
   );
 }
+/*
+before img
+  <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+
+    <div>
+          <h6>
+              <a href={'docs/home'}>
+                  <img src={'img/02.gif'} alt={''} align={'left'} />
+              </a>
+          </h6>
+      </div>
+ */

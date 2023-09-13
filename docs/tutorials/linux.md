@@ -1,8 +1,11 @@
 ---
-sidebar_position: 1
-sidebar_label: LINUX
+sidebar_position: 4
+sidebar_label: Linux
 ---
 
-# LINUX
+# Linux
+---
+
+>> Most used commands in linux.
 
 ## Init

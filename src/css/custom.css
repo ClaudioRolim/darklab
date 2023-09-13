@@ -6,7 +6,16 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  .footer--dark {
+    --ifm-footer-background-color: white;
+    --ifm-footer-title-color: #1C1C1C;
+  }
+  .footer__link-item {
+    color: #1C1C1C;
+  }
+  --ifm-menu-color-background-active: white;
+  --ifm-menu-color: #1C1C1C;
+  --ifm-color-primary: #4682B4;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -19,10 +28,21 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
+  .footer--dark {
+    --ifm-footer-background-color: #1C1C1C;
+    --ifm-footer-title-color: white;
+  }
+  .footer__link-item {
+    color: white;
+  }
+  --ifm-menu-color-background-active: #363636;
+  --ifm-menu-color: white;
+  --ifm-navbar-background-color: #363636;
+  --ifm-navbar-link-color: white;
+  --ifm-color-primary: #4682B4;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-darkest: #1fa570;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;

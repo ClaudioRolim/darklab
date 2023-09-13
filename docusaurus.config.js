@@ -3,12 +3,13 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {actionStatusColor} = require("@docusaurus/core/lib/commands/swizzle/common");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DarkLab',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  tagline: 'Documentation • Tutorials • Commands',
+  favicon: 'img/code.ico',
 
   // Set the production url of your site here
   url: 'https://jagcity.github.io/',
@@ -62,37 +63,41 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/10.png',
       navbar: {
-        title: 'My Site',
+        title: 'DarkLab',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/10.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
+            to: '/docs/home'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'DarkLab',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Tutorials',
+                to: '/docs/category/tutorials',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'Sobre',
+                to: '/blog/sobre',
               },
             ],
           },
@@ -114,20 +119,16 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Links',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/jagcity',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DarkLab, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

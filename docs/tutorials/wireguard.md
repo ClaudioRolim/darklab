@@ -1,9 +1,12 @@
 ---
-sidebar_position: 4
-sidebar_label: WIREGUARD
+sidebar_position: 5
+sidebar_label: Wireguard
 ---
 
-# WIREGUARD
+# Wireguard
+---
+
+>> WireGuard is a fast, modern, cross-platform, and widely deployable VPN that uses state-of-the-art encryption. Wireguard uses a highly customizable client-server structure, enabling multiple clients on a single server.
 
 ## **SERVER Configuration**
 
@@ -209,7 +212,9 @@ wg-quick down wg0
 wg
 ```
 
-## RUN wireguard
+## **RUN wireguard**
+
+### 1. Client-Server
 Start wireguard on the server and client and you're done.
 
 :::warning Attention

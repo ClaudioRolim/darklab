@@ -1,11 +1,14 @@
 ---
-sidebar_position: 2
-sidebar_label: GIT
+sidebar_position: 1
+sidebar_label: Git
 ---
 
-# GIT
+# Git
+---
 
-## Git Configuration
+>> Modern, open source version control system developed by Linus Torvalds, the famous creator of the Linux operating system kernel.
+
+## **Configure Git**
 
 ### 1. Install Git
 

@@ -1,18 +1,17 @@
 ---
-sidebar_position: 5
-sidebar_label: HEADSCALE
+sidebar_position: 3
+sidebar_label: Headscale
 ---
 
-# HEADSCALE
-This project was development by Juan Font. To access the complete project, visit: [***GitHub - Headscale***](https://github.com/juanfont/headscale)
+# Headscale
+---
 
-## HEADSCALE ON LINUX
-Headscale is based on tailscale, so headscale is installed on the server and tailscale is installed on the client.
+>> Project open source, self-hosted implementation derived from the *Tailscale Control Server,* developed by Juan Font. Headscale is based on tailscale, so headscale is installed on the server and tailscale is installed on the client. Access the complete project: [*GitHub - Headscale*](https://github.com/juanfont/headscale)
 
 ## **SERVER Configuration**
 
 ### 1. Download Headscale Package
-Download the lastest headscale package .deb for linux Debian or Ubuntu:[***Headscale Releases***](https://github.com/juanfont/headscale/releases)
+Download the lastest headscale package .deb for linux Debian or Ubuntu: [*Headscale Releases*](https://github.com/juanfont/headscale/releases)
 
 ```bash
 wget --output-document=headscale.deb \
@@ -44,7 +43,9 @@ nano /etc/headscale/config.yaml
 
 **↳** Use example configuration:  
 
-[***Headscale Configuration***](../../docs/configurations/config-example.yaml)
+[*config-example.yaml*](../config-example.yaml)
+
+
 
 ### 5. Start headscale
 
@@ -110,7 +111,7 @@ Go to server and register node.
 headscale nodes register --user <first-user> --key <nodekey generated in login tailscale>
 ```
 
-## HEADSCALE ON DOCKER
+## HEADSCALE DOCKER
 
 
 ## **HEADSCALE CLI**
