@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdarklab=self.webpackChunkdarklab||[]).push([[528],{5216:a=>{a.exports=JSON.parse('[{"label":"darklab","permalink":"/darklab/blog/tags/darklab","count":1},{"label":"docusaurus","permalink":"/darklab/blog/tags/docusaurus","count":1},{"label":"documentation","permalink":"/darklab/blog/tags/documentation","count":1}]')}}]);
