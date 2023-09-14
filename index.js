@@ -11,7 +11,7 @@ function HomepageHeader() {
     return (
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
-                <a href={'docs/home'}><img src={'img/12.png' } alt={''} align={'center'}/></a>
+                <a href={'docs/home'}><img src={'img/12.png'} alt={''} align={'center'}/></a>
                 <h1>
                     <img src={'img/110.png'} alt={''}/>
                 </h1>

@@ -3,8 +3,33 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-
-
+    {
+        title: 'Easy to Use',
+        Svg: require('@site/static/img/undraw_code_review_re_woeb (1).svg').default,
+        description: (
+            <>
+                Uncomplicated language for all levels of developers.
+            </>
+        ),
+    },
+    {
+        title: 'Developer to Developer',
+        Svg: require('@site/static/img/undraw_code_type.svg').default,
+        description: (
+            <>
+                Made by developers for developers.
+            </>
+        ),
+    },
+    {
+        title: 'Documentation',
+        Svg: require('@site/static/img/undraw_books.svg').default,
+        description: (
+            <>
+                Documentation into the <code>docs</code> directory.
+            </>
+        ),
+    },
 ];
 
 function Feature({Svg, title, description}) {

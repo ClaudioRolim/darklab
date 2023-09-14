@@ -3,46 +3,23 @@ sidebar_position: 1
 sidebar_label: Home
 ---
 
-# Tutorial Intro
+# Home
+---
 
-Let's discover **Docusaurus in less than 5 minutes**.
+>> The objective of this documentation project is to bring, in a more detailed way, tutorials on installation, configuration and applicability of open source systems and implementations tested in practice.
 
-## Getting Started
+<br></br>
 
-Get started by **creating a new site**.
+<div align="center">
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+![](../static/img/12.png)
 
-### What you'll need
+</div>
+<div align="center">
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+![](../static/img/111.png)
+</div>
 
-## Generate a new site
+<br></br>
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<div align="center">Darklab™ | Documentation | Tutorials. <a><i><font color="gray">All rights reserved.</font></i></a></div>
