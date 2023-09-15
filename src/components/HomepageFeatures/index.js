@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
+    /*
     {
         title: 'Easy to Use',
         Svg: require('@site/static/img/undraw_code_review_re_woeb (1).svg').default,
@@ -29,7 +30,7 @@ const FeatureList = [
                 Documentation into the <code>docs</code> directory.
             </>
         ),
-    },
+    },*/
 ];
 
 function Feature({Svg, title, description}) {

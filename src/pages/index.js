@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
           <a href={'docs/home'}><img src={'img/12.png' } alt={''} align={'center'}/></a>
           <h1>
-              <img src={'img/110.png'} alt={''}/>
+              <img src={'img/111.png'} alt={''}/>
           </h1>
       </div>
     </header>
@@ -24,7 +24,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title}`}
+      title={`Welcome to Docs`}
       description="Docs">
       <HomepageHeader />
       <main>

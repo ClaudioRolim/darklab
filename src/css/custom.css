@@ -7,15 +7,20 @@
 /* You can override the default Infima variables here. */
 :root {
   .footer--dark {
-    --ifm-footer-background-color: #FFFFFF;
-    --ifm-footer-title-color: #1C1C1C;
+    --ifm-footer-background-color: #4b4848;
+    --ifm-footer-title-color: #FFFFFF;
   }
   .footer__link-item {
-    color: #1C1C1C;
+    color: #969696;
   }
-  --ifm-menu-color-background-active: #FFFFFF;
+  .prism-code {
+    --ifm-pre-background: #e6e6fd;
+  }
+  --ifm-background-surface-color: #FFFFFF;
+  --ifm-background-color: #FFFFFF;
+  --ifm-menu-color-background-active: #e6e6fd;
   --ifm-menu-color: #1C1C1C;
-  --ifm-color-primary: #4682B4;
+  --ifm-color-primary: #4b4848;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -29,17 +34,23 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   .footer--dark {
-    --ifm-footer-background-color: #1C1C1C;
+    --ifm-footer-background-color: #4b4848;
     --ifm-footer-title-color: #FFFFFF;
   }
   .footer__link-item {
-    color: #FFFFFF;
+    color: #969696;
   }
-  --ifm-menu-color-background-active: #363636;
+  .prism-code {
+    --ifm-pre-background: #0d141e;
+  }
+  --ifm-color-emphasis-0: #2d2b2b;
+  --ifm-background-surface-color: #2d2b2b;
+  --ifm-background-color: #2d2b2b;
+  --ifm-menu-color-background-active: #0d141e;
   --ifm-menu-color: #FFFFFF;
-  --ifm-navbar-background-color: #363636;
+  --ifm-navbar-background-color: #2d2b2b;
   --ifm-navbar-link-color: #FFFFFF;
-  --ifm-color-primary: #4682B4;
+  --ifm-color-primary: #4b4848;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1fa570;
