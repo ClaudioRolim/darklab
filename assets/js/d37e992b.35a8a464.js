@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdarklab=self.webpackChunkdarklab||[]).push([[8417],{3614:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/darklab/blog/tags/hello","allTagsPath":"/darklab/blog/tags","count":2}')}}]);
