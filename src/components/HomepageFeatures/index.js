@@ -30,7 +30,8 @@ const FeatureList = [
                 Documentation into the <code>docs</code> directory.
             </>
         ),
-    },*/
+    },
+*/
 ];
 
 function Feature({Svg, title, description}) {

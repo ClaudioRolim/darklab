@@ -7,15 +7,17 @@
 /* You can override the default Infima variables here. */
 :root {
   .footer--dark {
-    --ifm-footer-background-color: #4b4848;
+    --ifm-background-color: #4b4848;
     --ifm-footer-title-color: #FFFFFF;
+    --ifm-footer-background-color: #4b4848;
   }
   .footer__link-item {
-    color: #969696;
+    --ifm-footer-link-color: #969696;
   }
   .prism-code {
     --ifm-pre-background: #e6e6fd;
   }
+  --ifm-footer-link-color: #969696;
   --ifm-background-surface-color: #FFFFFF;
   --ifm-background-color: #FFFFFF;
   --ifm-menu-color-background-active: #e6e6fd;
@@ -38,7 +40,7 @@
     --ifm-footer-title-color: #FFFFFF;
   }
   .footer__link-item {
-    color: #969696;
+    --ifm-footer-link-color: #969696;
   }
   .prism-code {
     --ifm-pre-background: #0d141e;
