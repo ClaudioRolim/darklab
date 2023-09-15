@@ -22,4 +22,4 @@ sidebar_label: Home
 
 <br></br>
 
-<div align="center">Darklab™ | Documentation | Tutorials. <a><i><font color="gray">All rights reserved.</font></i></a></div>
+<div align="center">Darklab™ | Documentation | Tutorials | Linux. <a><i><font color="gray">All rights reserved.</font></i></a></div>
