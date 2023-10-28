@@ -29,9 +29,13 @@ grub> set root=(hd1,gpt2)
 grub> set prefix=(hd1,gpt2)/boot/grub
 ```
 
+4.
+
 ```
 grub> insmod normal
 ```
+
+5.Iniciar normalmente o bootloader:
 
 ```
 grub> normal
