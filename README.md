@@ -1,4 +1,5 @@
-# Website
+# DARKLAB
+The darklab project was created with the aim of assisting the development of projects as well as multiplying experiences and learning.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
